@@ -129,10 +129,10 @@ def twitterScrapy(t):
     
     
         ts = TwitterSearch(
-                consumer_key = 'yP37M6fOvZS5yKtXXeScOthlj',
-                consumer_secret = 'TD5XRVucXj32TxVzqEmm9PrLDcVINFV19rNj4v1PcgsOGyYCir',
-                access_token = '1128873464-4uGGex5TkcZANMSZjtQe2t1tuWi023Sds2OyCiv',
-                access_token_secret = '4Hxc6RWkA4IYmMVWPS6BEgtvcDPBi5yC0FForvPNvvcQ3')
+                consumer_key = '***',
+                consumer_secret = '***',
+                access_token = '***',
+                access_token_secret = '***')
     
      # this is where the fun actually starts :)
         for tweet in ts.search_tweets_iterable(tso):          
