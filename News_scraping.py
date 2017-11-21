@@ -41,7 +41,7 @@ newspapers = [
 
 #printing the results in Google Sheet 
 
-client_secret = r'C:\Users\Ethel Karskens\Downloads\MyProject_perso.json'
+client_secret = r'C:\Users\***\MyProject_perso.json'
 
 # use creds to create a client to interact with the Google Drive API
 scope = ['https://spreadsheets.google.com/feeds']
